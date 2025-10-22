@@ -83,10 +83,10 @@ Autenticação biométrica após login → reforça segurança no acesso.
 Geolocalização integrada ao registro de ponto → validação de presença física no local.
 
 - Desafios Encontrados & Soluções
-Desafio	Solução Implementada
+    Desafio	Solução Implementada
 Erros de compatibilidade com local_auth	Atualização da dependência para versão 3.0.0 e uso de AuthenticationOptions
 Crash de memória no emulador	Aumento de RAM no AVD e otimização da inicialização
-Permissões de localização não funcionando no Android Configuração correta no AndroidManifest.xml e checagem dinâmica em tempo de execução
+    Permissões de localização não funcionando no AndroidConfiguração correta no AndroidManifest.xml e checagem dinâmica em tempo de execução
 Delay no carregamento inicial	Uso de WidgetsFlutterBinding.ensureInitialized() e inicialização assíncrona
 
 ## 4. Documentação de Instalação e Uso

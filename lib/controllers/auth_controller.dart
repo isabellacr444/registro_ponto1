@@ -1,6 +1,5 @@
-
 // ignore: unused_import
-import 'package:registro_pont01/services/auth_service.dart';
+import '../services/auth_service.dart';
 /// Controller simples que expõe métodos sincronizados para as views.
 class AuthController {
   final AuthService _service;

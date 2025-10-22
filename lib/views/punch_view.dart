@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:registro_pont01/controllers/auth_controller.dart';
+import 'package:registro_ponto1/controllers/auth_controller.dart';
 import '../services/location_service.dart';
 import '../services/firestore_service.dart';
 import '../config/app_config.dart';

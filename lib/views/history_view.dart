@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 // ignore: depend_on_referenced_packages
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:registro_pont01/controllers/auth_controller.dart';
+import 'package:registro_ponto1/controllers/auth_controller.dart';
 import '../services/firestore_service.dart';
 // ignore: unused_import
 import '../services/auth_service.dart';

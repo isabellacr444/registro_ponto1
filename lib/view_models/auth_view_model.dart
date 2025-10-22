@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 // ignore: depend_on_referenced_packages
-import 'package:registro_pont01/controllers/auth_controller.dart' show AuthService;
+import 'package:registro_ponto1/controllers/auth_controller.dart' show AuthService;
 
 class AuthViewModel extends ChangeNotifier {
   final AuthService _auth = AuthService();
